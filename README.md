@@ -29,6 +29,7 @@ Gas Engine,600000,12000,4,200000,4,15,12,8000,5
 Battery Bank,800000,10000,12,300000,6,30,8,5000,7
 ```
 
-## 🌐 Live Demo
+## 📬 Contact
 
-Coming soon...
+Made with ❤️ by Anoushka Kadam  
+🔗 [LinkedIn](https://linkedin.com/in/anoushka-kadam-230748210) | [GitHub](https://github.com/anoushkakadam/lifecycle-cost-estimator)

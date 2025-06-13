@@ -3,6 +3,10 @@
 
 A Streamlit app to estimate and compare the total cost of ownership (TCO) of industrial equipment over its lifecycle using Net Present Value (NPV).
 
+## 🌐 Live App
+
+View App Here [Lifecycle Cost Estimator (NPV-Based)](https://lifecycle-cost-estimator-anoushkakadam.streamlit.app/)
+
 ## 📦 Features
 - Manual cost calculator for a single equipment
 - CSV upload to compare multiple equipment lifecycle costs

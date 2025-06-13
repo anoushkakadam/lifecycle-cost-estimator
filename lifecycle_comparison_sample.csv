@@ -1,0 +1,4 @@
+Equipment,Initial Cost,Maintenance Cost,Maintenance Interval,Replacement Cost,Replacement Interval,Reuse Rate,Operating Life,Downtime Cost,Discount Rate
+Diesel Generator,500000,15000,6,250000,5,20,10,10000,6
+Gas Engine,600000,12000,4,200000,4,15,12,8000,5
+Battery Bank,800000,10000,12,300000,6,30,8,5000,7
